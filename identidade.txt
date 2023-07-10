@@ -3,3 +3,4 @@ idate: 30
 cpf: 40699729866
 Pais: Brasil
 Cidade: São Paulo
+Cor de cabelo: Preto
